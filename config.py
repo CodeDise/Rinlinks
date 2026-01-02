@@ -57,7 +57,7 @@ USER_REPLY_TEXT = "⚠️ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ᴍᴀsᴛᴇʀ. ɢ�
 
 # Logging
 LOG_FILE_NAME = "links-sharingbot.txt"
-DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "")) # Channel where user links are stored
+DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "-1003674922374")) # Channel where user links are stored
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 
 try:
