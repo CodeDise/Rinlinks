@@ -34,7 +34,7 @@ START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛ�
 HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/About_Frieza>frieza</a>\n» Our Community: <a href=https://t.me/About_Frieza>Flix Network</a>\n» Anime Channel: <a href=https://t.me/About_Frieza>Anime Cruise</a>\n» Ongoing Anime: <a href=https://t.me/About_Frieza>Ongoing cruise</a>\n» Developer: <a href=https://t.me/About_Frieza>Frieza</a></b>")
 ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed by Frieza (@About_Frieza) to securely share Telegram channel links with temporary invite links, protecting your channels.</b>")
 
-ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/About_Frieza'>ᴏᴛᴀᴋᴜғʟɪx</a>
+ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/About_Frieza'>ᴏᴛᴀᴋᴜ</a>
 <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/About_Frieza'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>
 ›› ᴏᴡɴᴇʀ: <a href='https://t.me/About_Frieza'>frieza</a>
 ›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
@@ -42,13 +42,13 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/About_F
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @About_Frieza</b></blockquote>""" 
 
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/animes_cruise'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/movieflixspot'>ᴍᴏᴠɪᴇғʟɪx sᴘᴏᴛ</a>
-›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/webseries_flix'>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>
-›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/hanime_arena'>ᴄᴏʀɴʜᴜʙ</a>
-›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/pornhwa_flix'>ᴘᴏʀɴʜᴡᴀ</a>
-›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/otakuflix_network'>ᴏᴛᴀᴋᴜғʟɪx</a>
-›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ProYato</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
+CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/About_Frieza'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
+<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/About_Frieza'>ᴍᴏᴠɪᴇ</a>
+›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/About_Frieza'>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>
+›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/About_Frieza'>ᴄᴏʀɴʜᴜʙ</a>
+›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/About_Frieza'>ᴘᴏʀɴʜᴡᴀ</a>
+›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/About_Frieza'>ᴏᴛᴀᴋᴜғʟɪx</a>
+›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @About_Frieza</b></blockquote>""" 
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 # Default
