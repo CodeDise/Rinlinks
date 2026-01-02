@@ -1,16 +1,16 @@
-# +++ Modified By [telegram username: @Codeflix_Bots
+# +++ Modified By [telegram username: @About_Frieza
 import os
 from os import environ
 import logging
 from logging.handlers import RotatingFileHandler
 
 # Recommended
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-APP_ID = int(os.environ.get("APP_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8593194410:AAGFjNiES03nQ0rGGsELTdPTwemIGFia4x0")
+APP_ID = int(os.environ.get("APP_ID", "39410203"))
+API_HASH = os.environ.get("API_HASH", "f0b7eb52f4d96ff486a167985f60cadd")
 
 # Main
-OWNER_ID = int(os.environ.get("OWNER_ID", "6497757690"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "8350467500"))
 PORT = os.environ.get("PORT", "8080")
 
 # Database
