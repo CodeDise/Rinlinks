@@ -5,7 +5,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 # Recommended
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8593194410:AAGFjNiES03nQ0rGGsELTdPTwemIGFia4x0")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8593290470:AAESzeRFMs5lvlM2QO1MY-f1dsK2uStqaCY")
 APP_ID = int(os.environ.get("APP_ID", "39410203"))
 API_HASH = os.environ.get("API_HASH", "f0b7eb52f4d96ff486a167985f60cadd")
 
@@ -14,8 +14,8 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "8350467500"))
 PORT = os.environ.get("PORT", "8080")
 
 # Database
-DB_URI = os.environ.get("DB_URI", "mongodb+srv://chiranjayamohapatra2007_db_user:I8EaBALuNPybFzCO@cluster0.wtu2ywl.mongodb.net/?appName=Cluster0")
-DB_NAME = os.environ.get("DB_NAME", "MongoDB")
+DB_URI = os.environ.get("DB_URI", "mongodb+srv://chiranjayamohapatra2007_db_user:I8EaBALuNPybFzCO@cluster0.wtu2ywl.mongodb.net/?appName=rin")
+DB_NAME = os.environ.get("DB_NAME", "rin")
 
 #Auto approve 
 CHAT_ID = [int(app_chat_id) if id_pattern.search(app_chat_id) else app_chat_id for app_chat_id in environ.get('CHAT_ID', '').split()] # dont change anything 
